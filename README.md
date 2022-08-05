@@ -1,4 +1,4 @@
-# Project-Nebula
+# Project Nebula
 # This is the reason
 # Why you should use project nebula
 
